@@ -1,0 +1,129 @@
+order_id,customer,region,category,order_date,revenue,quantity,discount
+ORD-1001,Dara Som,Chiang Mai,Software,2025/01/01,,,
+ORD-1002,BOB WONG,Chiang Mai,Software,2025-01-01,1032.66,2,0.26
+ORD-1003,BOB WONG,Phuket,Services,2025-01-01,1389.5,1,0.18
+ORD-1004, Alice Chen ,Bangkok,Services,2025-01-02,319.49,8,0.27
+ORD-1005,Dara Som,Phuket,Hardware,2025-01-02,1433.3,2,0.26
+ORD-1006,Carol Lee,Chiang Mai,Services,2025-01-02,544.16,5,0.07
+ORD-1007,Carol Lee,Bangkok,Software,2025-01-03,528.96,2,0.14
+ORD-1008,BOB WONG,Chiang Mai,Hardware,2025/01/03,1300.81,5,0.22
+ORD-1009,Carol Lee,Chiang Mai,Software,2025-01-03,898.45,3,0.25
+ORD-1010,Carol Lee,Bangkok ,Software,2025-01-04,1031.94,3,0.19
+ORD-1011,Carol Lee,Chiang Mai,Services,2025-01-04,1210.78,2,0.24
+ORD-1012,Carol Lee,Phuket,Services,2025-01-04,849.82,4,0.17
+ORD-1013,Carol Lee,Bangkok ,Software,2025-01-05,745.82,6,0.13
+ORD-1014,BOB WONG,Bangkok ,Hardware,2025-01-05,,4,0.32
+ORD-1015, Alice Chen ,Bangkok,Hardware,2025/01/05,1078.25,8,0.18
+ORD-1016, Alice Chen ,Bangkok,Software,2025-01-06,1484.73,7,0.29
+ORD-1017,Dara Som,Bangkok ,Hardware,2025-01-06,1270.32,5,0.14
+ORD-1018,Carol Lee,Chiang Mai,Hardware,2025-01-06,1137.38,,0.07
+ORD-1019, Alice Chen ,Phuket,Services,2025-01-07,101.83,7,0.17
+ORD-1020,Dara Som,Phuket,Hardware,2025-01-07,719.95,6,
+ORD-1021,Carol Lee,Bangkok,Hardware,2025-01-07,1370.92,8,0.19
+ORD-1022, Alice Chen ,Chiang Mai,Software,2025/01/08,1279.95,9,0.25
+ORD-1023,BOB WONG,Bangkok ,Software,2025-01-08,329.41,1,0.08
+ORD-1024, Alice Chen ,Bangkok,Software,2025-01-08,1406.96,9,0.34
+ORD-1025,Dara Som,Bangkok,Software,2025-01-09,1368.36,5,0.08
+ORD-1026,BOB WONG,Bangkok,Software,2025-01-09,1186.41,2,0.23
+ORD-1027,Dara Som,Phuket,Hardware,2025-01-09,,8,0.19
+ORD-1028,Dara Som,Bangkok ,Services,2025-01-10,1281.64,3,0.15
+ORD-1029,BOB WONG,Chiang Mai,Software,2025/01/10,266.89,6,0.13
+ORD-1030,BOB WONG,Chiang Mai,Software,2025-01-10,221.72,4,0.33
+ORD-1031,Dara Som,Bangkok,Software,2025-01-11,383.92,8,0.23
+ORD-1032,Dara Som,Chiang Mai,Software,2025-01-11,1403.6,3,0.3
+ORD-1033,BOB WONG,Bangkok,Software,2025-01-11,471.98,8,0.25
+ORD-1034,BOB WONG,Phuket,Hardware,2025-01-12,416.81,8,0.22
+ORD-1035, Alice Chen ,Chiang Mai,Hardware,2025-01-12,978.3,,0.22
+ORD-1036,BOB WONG,Phuket,Software,2025/01/12,1208.93,9,0.17
+ORD-1037, Alice Chen ,Bangkok,Hardware,2025-01-13,710.85,8,0.16
+ORD-1038,Dara Som,Bangkok ,Services,2025-01-13,667.44,1,0.08
+ORD-1039, Alice Chen ,Phuket,Services,2025-01-13,1193.69,2,
+ORD-1040,Carol Lee,Chiang Mai,Services,2025-01-14,,4,0.16
+ORD-1041, Alice Chen ,Chiang Mai,Services,2025-01-14,438.94,6,0.1
+ORD-1042,Dara Som,Phuket,Software,2025-01-14,484.42,3,0.16
+ORD-1043, Alice Chen ,Bangkok,Software,2025/01/15,766.71,1,0.12
+ORD-1044,Dara Som,Bangkok ,Software,2025-01-15,1371.59,4,0.3
+ORD-1045,Carol Lee,Bangkok,Services,2025-01-15,985.23,2,0.15
+ORD-1046,BOB WONG,Chiang Mai,Services,2025-01-16,365.71,3,0.23
+ORD-1047,BOB WONG,Phuket,Hardware,2025-01-16,1470.25,9,0.07
+ORD-1048,Carol Lee,Phuket,Software,2025-01-16,747.53,4,0.35
+ORD-1049,BOB WONG,Bangkok,Hardware,2025-01-17,1324.81,3,0.22
+ORD-1050,BOB WONG,Bangkok ,Services,2025/01/17,1367.38,4,0.1
+ORD-1051,Carol Lee,Bangkok ,Services,2025-01-17,141.98,3,0.15
+ORD-1052,Carol Lee,Bangkok ,Software,2025-01-18,994.82,,0.09
+ORD-1053,Dara Som,Phuket,Services,2025-01-18,,4,0.19
+ORD-1054,BOB WONG,Phuket,Hardware,2025-01-18,295.47,4,0.27
+ORD-1055, Alice Chen ,Phuket,Software,2025-01-19,1104.78,3,0.16
+ORD-1056,Dara Som,Chiang Mai,Services,2025-01-19,83.4,3,0.17
+ORD-1057,Carol Lee,Chiang Mai,Hardware,2025/01/19,1453.61,4,0.3
+ORD-1058,Dara Som,Phuket,Software,2025-01-20,933.02,2,
+ORD-1059,BOB WONG,Bangkok ,Software,2025-01-20,1277.26,8,0.32
+ORD-1060, Alice Chen ,Bangkok,Services,2025-01-20,1363.45,5,0.34
+ORD-1061,Dara Som,Bangkok ,Services,2025-01-21,747.87,2,0.13
+ORD-1062,Dara Som,Bangkok ,Hardware,2025-01-21,1341.21,3,0.34
+ORD-1063, Alice Chen ,Bangkok ,Software,2025-01-21,1243.6,3,0.05
+ORD-1064,Dara Som,Bangkok,Hardware,2025/01/22,182.61,3,0.23
+ORD-1065,Dara Som,Chiang Mai,Hardware,2025-01-22,1338.75,5,0.09
+ORD-1066,Carol Lee,Phuket,Hardware,2025-01-22,,9,0.16
+ORD-1067,Carol Lee,Chiang Mai,Services,2025-01-23,1468.63,4,0.34
+ORD-1068,BOB WONG,Chiang Mai,Hardware,2025-01-23,625.39,2,0.18
+ORD-1069,Dara Som,Bangkok,Hardware,2025-01-23,1339.45,,0.34
+ORD-1070,Dara Som,Bangkok,Hardware,2025-01-24,265.38,8,0.3
+ORD-1071,Carol Lee,Chiang Mai,Services,2025/01/24,882.48,4,0.27
+ORD-1072,Carol Lee,Bangkok,Services,2025-01-24,318.71,9,0.31
+ORD-1073,BOB WONG,Chiang Mai,Software,2025-01-25,1106.07,9,0.22
+ORD-1074,BOB WONG,Bangkok ,Software,2025-01-25,24500,8,0.31
+ORD-1075,Carol Lee,Chiang Mai,Services,2025-01-25,1325.49,7,0.32
+ORD-1076, Alice Chen ,Phuket,Software,2025-01-26,261.25,7,0.3
+ORD-1077,BOB WONG,Phuket,Software,2025-01-26,1493.43,6,
+ORD-1078,Dara Som,Phuket,Hardware,2025/01/26,195.61,3,0.15
+ORD-1079,Dara Som,Bangkok ,Services,2025-01-27,,7,0.19
+ORD-1080,Carol Lee,Chiang Mai,Services,2025-01-27,1348.97,5,0.06
+ORD-1081, Alice Chen ,Bangkok ,Hardware,2025-01-27,683.22,3,0.12
+ORD-1082, Alice Chen ,Phuket,Hardware,2025-01-28,1365.73,2,0.25
+ORD-1083, Alice Chen ,Chiang Mai,Hardware,2025-01-28,112.08,4,0.07
+ORD-1084, Alice Chen ,Chiang Mai,Services,2025-01-28,1056.78,7,0.31
+ORD-1085,Carol Lee,Bangkok ,Hardware,2025/01/29,602.57,2,0.08
+ORD-1086,BOB WONG,Phuket,Hardware,2025-01-29,1470.19,,0.19
+ORD-1087,BOB WONG,Bangkok,Hardware,2025-01-29,454.08,6,0.1
+ORD-1088,Carol Lee,Bangkok ,Software,2025-01-30,940.67,7,0.34
+ORD-1089,Carol Lee,Bangkok,Software,2025-01-30,1077.18,2,0.27
+ORD-1090,BOB WONG,Chiang Mai,Services,2025-01-30,1354.04,2,0.12
+ORD-1091,BOB WONG,Bangkok,Software,2025-01-31,934.53,1,0.18
+ORD-1092, Alice Chen ,Phuket,Services,2025/01/31,,1,0.11
+ORD-1093, Alice Chen ,Bangkok,Services,2025-01-31,970.53,2,0.22
+ORD-1094, Alice Chen ,Bangkok ,Hardware,2025-02-01,1161.25,2,0.16
+ORD-1095,Dara Som,Bangkok,Software,2025-02-01,977.9,7,0.05
+ORD-1096,Carol Lee,Phuket,Services,2025-02-01,1174.83,6,
+ORD-1097,BOB WONG,Bangkok,Software,2025-02-02,695.12,4,0.11
+ORD-1098,Carol Lee,Bangkok ,Hardware,2025-02-02,155.05,7,0.25
+ORD-1099,Dara Som,Bangkok ,Hardware,2025/02/02,1128.9,7,0.34
+ORD-1100,Dara Som,Bangkok ,Software,2025-02-03,577.05,5,0.19
+ORD-1101,BOB WONG,Phuket,Software,2025-02-03,302.72,2,0.2
+ORD-1102,Carol Lee,Phuket,Software,2025-02-03,1426.54,9,0.18
+ORD-1103,BOB WONG,Bangkok ,Software,2025-02-04,1116.62,,0.23
+ORD-1104, Alice Chen ,Phuket,Software,2025-02-04,1323.37,7,0.18
+ORD-1105,Carol Lee,Bangkok,Hardware,2025-02-04,,5,0.21
+ORD-1106,Carol Lee,Bangkok,Hardware,2025/02/05,1142.75,9,0.21
+ORD-1107, Alice Chen ,Bangkok ,Hardware,2025-02-05,135.74,2,0.11
+ORD-1108,Carol Lee,Phuket,Hardware,2025-02-05,881.98,4,0.1
+ORD-1109, Alice Chen ,Phuket,Software,2025-02-06,997.06,6,0.21
+ORD-1110,Dara Som,Chiang Mai,Software,2025-02-06,1440.8,6,0.3
+ORD-1111,BOB WONG,Phuket,Services,2025-02-06,1098.17,5,0.25
+ORD-1112,Dara Som,Bangkok ,Services,2025-02-07,1401.22,5,0.31
+ORD-1113, Alice Chen ,Bangkok ,Software,2025/02/07,417.69,5,0.15
+ORD-1114,Carol Lee,Bangkok,Hardware,2025-02-07,1152.19,6,0.3
+ORD-1115,Dara Som,Chiang Mai,Software,2025-02-08,236.22,2,
+ORD-1116,Dara Som,Phuket,Software,2025-02-08,419.75,1,0.26
+ORD-1117,Carol Lee,Chiang Mai,Software,2025-02-08,259.07,7,0.18
+ORD-1118,Dara Som,Bangkok,Hardware,2025-02-09,,8,0.32
+ORD-1119,Dara Som,Phuket,Software,2025-02-09,951.93,2,0.31
+ORD-1120,Dara Som,Bangkok,Hardware,2025/02/09,392.28,,0.32
+ORD-1011,Carol Lee,Chiang Mai,Services,2025-01-04,1210.78,2,0.24
+ORD-1012,Carol Lee,Phuket,Services,2025-01-04,849.82,4,0.17
+ORD-1013,Carol Lee,Bangkok ,Software,2025-01-05,745.82,6,0.13
+ORD-1014,BOB WONG,Bangkok ,Hardware,2025-01-05,,4,0.32
+ORD-1015, Alice Chen ,Bangkok,Hardware,2025/01/05,1078.25,8,0.18
+ORD-1016, Alice Chen ,Bangkok,Software,2025-01-06,1484.73,7,0.29
+ORD-1017,Dara Som,Bangkok ,Hardware,2025-01-06,1270.32,5,0.14
+ORD-1018,Carol Lee,Chiang Mai,Hardware,2025-01-06,1137.38,,0.07
