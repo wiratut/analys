@@ -1,0 +1,14 @@
+.git
+.venv
+.web
+.reflex
+.states
+.pytest_cache
+.playwright
+__pycache__
+*.pyc
+test-results
+uploaded_files
+.env
+.env.*
+!.env.example
